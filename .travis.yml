@@ -2,4 +2,4 @@ language: erlang
 otp_release:
 - 18.1
 script:
-- ./rebar3 compile && ./rebar3 eunit
+- make test
