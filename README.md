@@ -1,7 +1,7 @@
 eleb128
 =======
 
-LEB128 Erlang implementation — [https://en.wikipedia.org/wiki/LEB128]https://en.wikipedia.org/wiki/LEB128
+LEB128 Erlang implementation — https://en.wikipedia.org/wiki/LEB128
 
 Build
 -----
