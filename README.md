@@ -28,3 +28,8 @@ Usage
     5> eleb128:unsigned_decode(<<128,1>>).
     {128,<<>>}
 
+Code Status
+-----------
+
+[![Build Status](https://travis-ci.org/funbox/eleb128.svg?branch=master)](https://travis-ci.org/funbox/eleb128)
+
