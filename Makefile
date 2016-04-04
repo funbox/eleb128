@@ -20,7 +20,6 @@ clean:
 		$(REBAR) clean
 		rm -rf ./test/*.beam
 		rm -rf ./erl_crash.dump
-		rm -rf TEST*.xml
 
 build_plt: clean compile
 ifneq ("$(wildcard erlang.plt)","")
